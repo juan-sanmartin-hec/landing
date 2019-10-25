@@ -1,0 +1,14 @@
+.btn-black {
+   background-color: rgb(10, 10, 10);
+   padding: 15px 15px;
+   border-radius: 3px;
+   color: white;
+   transition: background-color 0.5s ease;
+}
+
+
+.btn-black:hover {
+   font-family: 'Noto Sans TC', sans-serif;
+   background-color: rgb(60,60,120);
+   text-decoration: none;
+}

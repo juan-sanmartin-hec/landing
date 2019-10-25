@@ -1,0 +1,19 @@
+.banner {
+    background-image: linear-gradient(50deg, rgba(255,255,255,0.4) 0%, rgba(68, 148,74,0.3) 70%), url(../../images/forest.jpg);
+    padding: 20px 5px;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner h1 {
+   font-size: 70px;
+}
+
+.banner h2 {
+   font-size:50px;
+   font-family: 'Neucha', cursive;
+   font-weight: lighter;
+   opacity: 0.9;
+   margin-bottom: 30px;
+}
+

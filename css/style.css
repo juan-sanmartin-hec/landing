@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Neucha|Open+Sans|Permanent+Marker&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+   font-family: 'Neucha', cursive;
+   font-size: 20px;
+}
+
+h1 {
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+h3 {
+   font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+   font-size: 35px;
+}
+
+a {
+   text-decoration: none;
+   font-family: 'Noto Sans TC', sans-serif;
+   text-decoration: none;
+   transition: color 0.5s ease;
+   color: black;
+}
